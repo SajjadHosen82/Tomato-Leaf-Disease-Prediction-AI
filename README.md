@@ -38,4 +38,4 @@ If you want to run this project on your own computer, follow these simple steps:
 
 1. **Clone this repository:**
    ```bash
-   git clone [https://github.com/your-username/Tomato-Leaf-Disease-Prediction.git](https://github.com/your-username/Tomato-Leaf-Disease-Prediction.git)
+   git clone [https://github.com/your-username/Tomato-Leaf-Disease-Prediction.git](https://github.com/SajjadHosen82/Tomato-Leaf-Disease-Prediction.git)
